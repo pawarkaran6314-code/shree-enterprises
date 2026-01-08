@@ -19,13 +19,6 @@ h1, h2, h3 {
     font-weight: 600;
 }
 
-/*
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #fff;
-  
-}*/
 
 /* HERO SECTION */
 .hero {
@@ -35,13 +28,6 @@ body {
   background-position: center;
   position: relative;
 }
-
-/*.main-title {
-    font-family: 'Playfair Display', sans-serif;
-    font-size: 36px;
-    font-weight: 800;
-    text-transform: uppercase;
-}*/
 
 /* Company name */
 .overlay h1:first-child {
@@ -85,10 +71,6 @@ body {
   font-size: 28px;
   margin-bottom: 10px;
 }
-
-/*.overlay p {
-  font-size: 16px;
-}*/
 
 /* BUTTONS */
 .buttons {
@@ -193,12 +175,7 @@ body {
     width: 90%;
     max-width: 500px;
 }
-/*
-.color-bottom h2,
-.color-bottom p {
-    text-align: center;
-    margin-bottom: 15px;
-}*/
+
 
 /* Contact Section */
 .contact-section {
