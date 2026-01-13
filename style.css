@@ -23,7 +23,7 @@ h1, h2, h3 {
 /* HERO SECTION */
 .hero {
   height: 60vh;
-  background-image: url("images/building.jpg");
+  background-image: url("images/background.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
